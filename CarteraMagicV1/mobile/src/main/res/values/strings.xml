@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarteraMagic V1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_social_media">SocialMedia</string>
+    <string name="title_activity_google_play_services">GooglePlayServicesActivity</string>
+    <string name="app_id">1567149823512582</string>
+
+</resources>
